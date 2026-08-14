@@ -1,1 +1,6 @@
+title: "Patrick | Software Engineer"
+lang: "en-US"
+
 theme: minima
+markdown: kramdown
+highlighter: rouge
